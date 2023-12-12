@@ -28,10 +28,9 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- []()
-- []()
-- []()
-- []()
+- [Html/Css-Portfolio](https://github.com/Reis017/Portfolio_tela_inicio/tree/main/portfolio_Saimon_Reis.html)
+- [JavaScript-Jogo_De_Memoria](https://github.com/Reis017/Portfolio_tela_inicio/tree/main/Memory-game)
+- [C-Venda_De_Ingressos](https://github.com/Reis017/Linguagem_C/tree/main/Venda_de_ingressos)
 
 <!-- GIF -->
 <p align="left">
